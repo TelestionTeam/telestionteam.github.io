@@ -5,7 +5,7 @@ We support space related projects by providing a generic ground station for comm
 data. We help the teams during the whole project cycle starting at the development, continuing with a successful launch 
 and ending with recovery and post flight analysis.
 
-The ground station is based on a generic modular backend which is provided in the [backend repository](https://github.com/TelestionTeam/telestion). 
+The ground station is based on a generic modular backend which is provided in the [main repository](https://github.com/TelestionTeam/telestion). 
 The backend handles the data streams, holds the connection and provides interfaces to the experiments. 
 The modular system is extended for the requirements of the experiments (e.g. 
 [RocketSound](https://github.com/TelestionTeam/RocketSound)).
