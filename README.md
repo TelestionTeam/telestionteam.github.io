@@ -12,3 +12,29 @@ The modular system is extended for the requirements of the experiments (e.g.
 
 The frontend for visualising the data and commanding the experiment is located in the 
 [client repository](https://github.com/TelestionTeam/telestion-client).
+
+## Legal Notice
+
+*Information in accordance with Section 5 TMG*
+
+WüSpace e.V.<br>
+Emil-Fischer-Straße 32<br>
+Informatik 8<br>
+97074 Würzburg<br>
+
+### Contact Information
+E-Mail: impressum@wuespace.de<br>
+Telephone: +49 1523 2047809<br>
+Internet address: https://www.wuespace.de
+
+### Represented by
+Clemens Riegler<br>
+c/o Emil-Fischer-Straße 32<br>
+Informatik 8<br>
+97074 Würzburg<br>
+E-Mail: clemens.riegler@wuespace.de
+
+### Register entry
+Entry in: Vereinsregister<br>
+Register Court: Amtsgericht Würzburg<br>
+Register Number: 201239
